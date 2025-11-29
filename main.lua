@@ -1,0 +1,13 @@
+AccessoryWeld.C0=Lerp(AccessoryWeld.C0,cfMul(cf(2,-2,0),angles(0,0,4.537856055185257)),deltaTime) 
+LeftShoulder.C0=Lerp(LeftShoulder.C0,cfMul(cf(-122,0.5,0),angles(0,-1.5707963267948966,0)),deltaTime) 
+Neck.C0=Lerp(Neck.C0,cfMul(cf(0,1,0),angles(-1.5707963267948966,0,3.141592653589793)),deltaTime) 
+AccessoryWeld.C0=Lerp(AccessoryWeld.C0,cfMul(cf(-0.6,-1.5,2),angles(0.8726646259971648,1.2217304763960306,0.6981317007977318)),deltaTime) 
+RightShoulder.C0=Lerp(RightShoulder.C0,cfMul(cf(222,0.5,0),angles(0,1.5707963267948966,0)),deltaTime) 
+AccessoryWeld.C0=Lerp(AccessoryWeld.C0,cfMul(cf(-0.5,2,0),angles(0,0,0.2617993877991494)),deltaTime) 
+AccessoryWeld.C0=Lerp(AccessoryWeld.C0,cfMul(cf(-3.8,0.5,0),angles(0,0,1.5707963267948966)),deltaTime) 
+RootJoint.C0=Lerp(RootJoint.C0,angles(-1.5707963267948966,0,3.141592653589793),deltaTime) 
+AccessoryWeld.C0=Lerp(AccessoryWeld.C0,angles(1.5707963267948966,0,0),deltaTime) 
+RightHip.C0=Lerp(RightHip.C0,cfMul(cf(200,-1,0),angles(0,1.5707963267948966,0)),deltaTime) 
+AccessoryWeld.C0=Lerp(AccessoryWeld.C0,cfMul(cf(-3.7,-0.8,0),angles(0,0,1.5707963267948966)),deltaTime) 
+LeftHip.C0=Lerp(LeftHip.C0,cfMul(cf(222,-1,0),angles(0,-1.5707963267948966,0)),deltaTime) 
+--MW_animatorProgressSave: MeshPartAccessory_Handle,2,0,0,1,0,0,0,1,-2,0,0,1,0,0,0,1,0,0,0,1,260,0,0,1,LeftArm,-122,0,0,1,0,0,0,1,0.5,0,0,1,-90,0,0,1,0,0,0,1,0,0,0,1,Head,0,0,0,1,-90,0,0,1,1,0,0,1,0,0,0,1,0,0,0,1,180,0,0,1,MeshPartAccessory_Handle,-0.6,0,0,1,50,0,0,1,-1.5,0,0,1,70,0,0,1,2,0,0,1,40,0,0,1,RightArm,222,0,0,1,0,0,0,1,0.5,0,0,1,90,0,0,1,0,0,0,1,0,0,0,1,MeshPartAccessory_Handle,-0.5,0,0,1,0,0,0,1,2,0,0,1,0,0,0,1,0,0,0,1,15,0,0,1,MeshPartAccessory_Handle,-3.8,0,0,1,0,0,0,1,0.5,0,0,1,0,0,0,1,0,0,0,1,90,0,0,1,Torso,,0,0,1,-90,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,180,0,0,1,MeshPartAccessory_Handle,0,0,0,1,90,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1,RightLeg,200,0,0,1,0,0,0,1,-1,0,0,1,90,0,0,1,0,0,0,1,0,0,0,1,MeshPartAccessory_Handle,-3.7,0,0,1,0,0,0,1,-0.8,0,0,1,0,0,0,1,0,0,0,1,90,0,0,1,LeftLeg,222,0,0,1,0,0,0,1,-1,0,0,1,-90,0,0,1,0,0,0,1,0,0,0,1
